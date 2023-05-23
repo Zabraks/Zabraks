@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there! 👋
+
+```javascript
+const zabraks = {
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]
+}
+```
 
 <!--
 **Zabraks/Zabraks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
