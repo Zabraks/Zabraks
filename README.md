@@ -1,5 +1,8 @@
 ### Hello there! 👋
 
+![Hello there!](https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=6c09b952d8ssbi8bv1hhvcjmz012nb6gkmyfthdrlv54kh41&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 ```javascript
 const zabraks = {
   code: [Javascript, HTML, CSS],
